@@ -39,10 +39,6 @@ The purpose of this assignment is to explore the injures datasets and answer the
 
 To help you get started we have included an example of a basic script which shows code for reading in the data plus some basic cleaning, plotting, and a table too.  Please feel free to write your own code if you prefer, or to change and build on the provided starting point.  All files related to the assignment, including the R Markdown file (`assignment_helper.Rmd`) and the example output from this file (`assignment_helper.pdf`) can be accessed [**here**](https://github.com/Health-Data-Science-course/ProgrammingMainAssessment).  
 
-Alternatively, right click on the link below and click **Save link as...** to download the example R Markdown file directly to your own computer:
-
-* [assignment_helper.Rmd](https://github.com/Health-Data-Science-course/ProgrammingMainAssessment/blob/master/assignment_helper.Rmd)
-
 ### Report Questions
 
 In your report, you must explore the following questions:
