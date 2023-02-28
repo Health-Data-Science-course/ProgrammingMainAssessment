@@ -4,7 +4,7 @@ output:
 ---
 # Programming Assignment Instructions
 
-**Deadline: submit assignment by Monday 28th November 2022, 12 noon BST**
+**Deadline: submit assignment by Monday 20th March 2023, 12 noon BST**
 
 ### Background
 
@@ -90,7 +90,7 @@ There is a maximum **10 page** limit.
 Below are instructions concerning the submission of your programming assignment to Turnitin along with some further help videos for finding your way around Turnitin.
 
 * Your submission should be anonymous. Please include your **exam number** at the start of the Title box when asked for a **Title** after uploading your report in Turnitin.
-* Click on the link [**here**](https://www.learn.ed.ac.uk/webapps/blackboard/content/contentWrapper.jsp?content_id=_8112739_1&displayName=R+Programming+Assignment+-+Anonymous+Submission&course_id=_99183_1&navItem=content&href=%2Fwebapps%2Fblackboard%2Fexecute%2Fblti%2FlaunchLink%3Fcourse_id%3D_99183_1%26content_id%3D_8112739_1) to upload and submit your PDF report to Turnitin.  Alternatively, you will find the same link at the top of the Programming Assignment page in Learn.
+* Click on the link [**here**](https://api.turnitinuk.com/api/lti/1p3/redirect/assignment/comp/16954400?lang=en_us#inbox) to upload and submit your PDF report to Turnitin.  Alternatively, you will find the same link at the top of the Programming Assignment page in Learn.
 
 Help videos for finding your way around Turnitin:
 
